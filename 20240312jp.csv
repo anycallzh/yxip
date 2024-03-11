@@ -1,0 +1,4 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
+38.207.130.236,443,443,TRUE,日本1,Asia Pacific,Tokyo,78,20.71
+128.22.132.227,443,443,TRUE,日本2,Asia Pacific,Tokyo,142,21.71
+168.138.52.13,443,443,TRUE,日本3,Asia Pacific,Tokyo,81,22.71
